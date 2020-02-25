@@ -1,2 +1,2 @@
 # Recipe_Rating
-Using Machine Learning to predict based on factors the star ratings of a recipe
+Use Machine Learning to predict recipe rating based on nutritional factors of a recipe
