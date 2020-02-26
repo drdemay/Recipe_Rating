@@ -1,7 +1,7 @@
-# Recipe_Rating
+# Recipe Rating Machine Learning
 Use Machine Learning to predict recipe rating based on nutritional factors of a recipe
 
-## Team Members:  
+## Team Members  
 • Veneta Bebrevska  
 • Deanna DeMay  
 • Susan Roedl  
